@@ -60,7 +60,7 @@ export default function Testimonials() {
 
               {/* Testimonial Text */}
               <p className="text-gray-700 text-lg leading-relaxed mb-6 relative z-10">
-                "{testimonial.text}"
+                &ldquo;{testimonial.text}&rdquo;
               </p>
 
               {/* Service Tag */}
