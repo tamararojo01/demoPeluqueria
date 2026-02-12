@@ -29,12 +29,12 @@ export default function Hero() {
 
           {/* Main Heading */}
           <h1 className="heading-1 text-white">
-            Haz que tu <span className="text-primary-300">peluquería</span> destaque online
+            Peluquería <span className="text-primary-300">Estilo & Arte</span>
           </h1>
 
           {/* Subheading */}
           <p className="text-xl md:text-2xl text-gray-200 max-w-2xl mx-auto font-light">
-            Transformamos tu estilo con cortes modernos, coloración profesional y un servicio excepcional
+            Estilo moderno en el corazón de Madrid
           </p>
 
           {/* CTA Buttons */}
